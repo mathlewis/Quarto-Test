@@ -1,0 +1,13 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "My Project Title"
+  chapters:
+    - index.qmd
+    - authoring.qmd
+
+format:
+  html:
+    theme: default

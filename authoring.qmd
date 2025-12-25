@@ -59,6 +59,6 @@ $$ {#eq-stddev}
 
 ## Citation
 
-Knuth says always be literate [@knuth1984].
+Knuth says always be literate [@knuth1984literate].
 
 ## References

@@ -1,0 +1,102 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Project Title",
+    "section": "",
+    "text": "This document introduces the work.\nUse the navigation or table of contents to continue.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Preface</span>"
+    ]
+  },
+  {
+    "objectID": "authoring.html",
+    "href": "authoring.html",
+    "title": "2  Quarto Basics",
+    "section": "",
+    "text": "2.1 Colors",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "authoring.html#colors",
+    "href": "authoring.html#colors",
+    "title": "2  Quarto Basics",
+    "section": "",
+    "text": "Red\nGreen\nBlue",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "authoring.html#shapes",
+    "href": "authoring.html#shapes",
+    "title": "2  Quarto Basics",
+    "section": "2.2 Shapes",
+    "text": "2.2 Shapes\n\nSquare\nCircle\nTriangle",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "authoring.html#textures",
+    "href": "authoring.html#textures",
+    "title": "2  Quarto Basics",
+    "section": "2.3 Textures",
+    "text": "2.3 Textures\n\nSmooth\nBumpy\nFuzzy",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "authoring.html#overview",
+    "href": "authoring.html#overview",
+    "title": "2  Quarto Basics",
+    "section": "2.4 Overview",
+    "text": "2.4 Overview\nSee Figure 2.1 in Section 2.5 for a demonstration of a simple plot.\nSee Equation 2.1 to better understand standard deviation.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "authoring.html#sec-plot",
+    "href": "authoring.html#sec-plot",
+    "title": "2  Quarto Basics",
+    "section": "2.5 Plot",
+    "text": "2.5 Plot\n\n\nCode\nimport matplotlib.pyplot as plt\nplt.plot([1,23,2,4])\nplt.show()\n\n\n\n\n\n\n\n\nFigure 2.1: Simple Plot",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "authoring.html#sec-equation",
+    "href": "authoring.html#sec-equation",
+    "title": "2  Quarto Basics",
+    "section": "2.6 Equation",
+    "text": "2.6 Equation\n\ns = \\sqrt{\\frac{1}{N-1} \\sum_{i=1}^N (x_i - \\overline{x})^2}\n\\tag{2.1}",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "authoring.html#citation",
+    "href": "authoring.html#citation",
+    "title": "2  Quarto Basics",
+    "section": "2.7 Citation",
+    "text": "2.7 Citation\nKnuth says always be literate (Knuth 1984).",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  },
+  {
+    "objectID": "authoring.html#references",
+    "href": "authoring.html#references",
+    "title": "2  Quarto Basics",
+    "section": "2.8 References",
+    "text": "2.8 References\n\n\n\n\nKnuth, Donald Ervin. 1984. “Literate Programming.” The Computer Journal 27 (2): 97–111.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Quarto Basics</span>"
+    ]
+  }
+]
